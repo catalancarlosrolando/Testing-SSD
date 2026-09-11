@@ -25,3 +25,16 @@ dist-ssr
 .env
 firebase.rules
 storage.rules
+.agents
+.claude
+.cursor
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+LICENSE
+ai-specs
+codex.md
+docs
+openspec
+packages
+user.history
